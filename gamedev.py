@@ -1,3 +1,5 @@
+#Работу выполнили: Лысенко М. 80%, Ячин Д. 40%
+
 from random import randint
 
 class China:
